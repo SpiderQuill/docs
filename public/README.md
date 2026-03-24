@@ -3,7 +3,7 @@
 - You can also watch a [video demo of the OS here](https://github.com/PorQ-Pine/docs/blob/main/public/demo.md).
 
 ### TLDR, What's the point
-Quill OS goal is to provide an experience for the pinenote which is:
+Quill OS' goal is to provide an experience for the PineNote which is:
 - Refined, so special software written for eink, adjusted for eink
 - Easy to use, without a external keyboard, just as a regular android eink tablet, but still advanced tiling for users who want it
 - Recoverable in field: Linux users are tinkerers, things break because of us and without us, Quill OS should be recoverable to usable state without another machine.
